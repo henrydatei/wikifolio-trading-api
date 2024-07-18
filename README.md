@@ -18,7 +18,7 @@ Although this wrapper can automate your trading you should not officially do it.
 ### Usage
 If published on PyPi, you can install it with
 ```
-pip install wikifolioTradingAPI // not yet published and unshure if this name is available
+pip install wikifolioTradingAPI // not yet published and unsure if this name is available
 ```
 Then you can use it like this:
 ```python
