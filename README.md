@@ -1,5 +1,5 @@
 # wikifolio-trading-api
-A Python Wrapper for the official Wikifolio Trading API
+A Python Wrapper for the official [Wikifolio Trading API](https://trading-api.wikifolio.com/swagger/index.html)
 
 Wikifolio has realeased an official API for trading. This is a Python wrapper for this API. Instead of using https://github.com/henrydatei/wikifolio-api, you can use this wrapper to trade with your wikifolio if you have a client api key and a user api key. To get these keys, you have to
 - register a wikifolio account
