@@ -12,7 +12,7 @@ Wikifolio has realeased an official API for trading. This is a Python wrapper fo
 Although this wrapper can automate your trading you should not officially do it. Wikifolio does not like it and they can block your account. So use it at your own risk. What is possible is that a user clicks a button and then the wrapper does the trading, i.e. rebalancing the wikifolio.
 
 ### TODOs
-- implement all methods of the official API
+- write tests
 - publish on PyPi
 
 ### Usage
