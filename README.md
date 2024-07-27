@@ -20,7 +20,7 @@ If published on PyPi, you can install it with
 ```
 pip install wikifolioTradingAPI // not yet published and unsure if this name is available
 ```
-Then you can use it like this:
+Alternatively, you can clone this repository and create a file in it with the following content:
 ```python
 from wikifolioTradingAPI import WikifolioTradingAPI
 
