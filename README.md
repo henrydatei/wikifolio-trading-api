@@ -23,6 +23,7 @@ pip install wikifolioTradingAPI // not yet published and unsure if this name is 
 Alternatively, you can clone this repository and create a file in it with the following content:
 ```python
 from wikifolioTradingAPI import WikifolioTradingAPI
+import datetime
 
 wf_api = WikifolioTradingAPI("my_client_api_key", "my_user_api_key")
 print(wf_api.list_wikifolios())
